@@ -1,0 +1,9 @@
+ul{
+    list-style:none;
+}
+.box{
+    width:150px;
+    height:200px;
+    background-image:url(../images/tp1.jpg);
+    background-size:cover;
+}
